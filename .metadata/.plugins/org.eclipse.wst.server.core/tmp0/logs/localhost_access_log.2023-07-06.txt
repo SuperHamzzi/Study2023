@@ -1,0 +1,5 @@
+127.0.0.1 - - [06/Jul/2023:07:54:55 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [06/Jul/2023:07:54:57 +0900] "GET /MustHaveJSP/08Board/List.jsp HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [06/Jul/2023:07:58:10 +0900] "GET /MustHaveJSP/08Board/List.jsp HTTP/1.1" 200 6014
+0:0:0:0:0:0:0:1 - - [06/Jul/2023:07:58:10 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [06/Jul/2023:07:58:16 +0900] "GET /MustHaveJSP/06Session/LoginForm.jsp HTTP/1.1" 404 -
